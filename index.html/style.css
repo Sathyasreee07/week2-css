@@ -1,0 +1,37 @@
+html{
+    border-style: double
+    }
+body{
+    background-image: url("background3.png");
+    background-size: 1600px;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    }
+label{
+    font-style: oblique;
+    font-size: x-large;
+     } 
+p{
+   font-size: x-large;
+ }
+textarea{
+    width: 700px;
+    height: 100px;
+        }
+summary{
+        font-size: large;
+        font-style: italic;
+       }
+ h1{
+        font-style: oblique;
+   }
+   img{
+    border-radius:8px;
+   }
+h3{
+    font-size: 50px;
+    border-style:groove;
+    border-width:7px;
+    border-color: lightblue;
+
+}
